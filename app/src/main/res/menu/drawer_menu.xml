@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+    <item
+        android:icon="@drawable/baseline_home_work_24"
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        />
+    <item
+        android:icon="@drawable/baseline_home_work_24"
+        android:id="@+id/profileFragment"
+        android:title="Profile"
+        />
+    <item
+        android:icon="@drawable/baseline_home_work_24"
+        android:id="@+id/userFragment"
+        android:title="User"
+        />
+</menu>
